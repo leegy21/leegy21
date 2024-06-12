@@ -12,7 +12,7 @@
 #💻Skills
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-00599C.svg?&style=for-the-badge&logo=Spring&logoColor=black)
+![Springboot](https://img.shields.io/badge/Springboot-00599C.svg?&style=for-the-badge&logo=Springboot&logoColor=black)
 
 #🔨Tools
 
