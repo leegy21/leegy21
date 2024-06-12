@@ -9,7 +9,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Backend 🌟
 
-
+<br>
+<br>
 
 ## 🛠️ Tech Stacks
 
@@ -22,7 +23,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-  
+
+<br>
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegy21&layout=compact)
 
 </div>
