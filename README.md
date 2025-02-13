@@ -30,6 +30,4 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegy21&layout=compact)
-
 </div>
