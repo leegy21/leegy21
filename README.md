@@ -1,4 +1,4 @@
-<div align='center'>
+
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=saranghein's%20GitHub&descAlignY=51&descAlign=62)
 -->
@@ -6,8 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+leegy21's+github!!;)](https://git.io/typing-svg)
 
 
-### Hi there 👋
-- 🌱 I’m currently learning Backend 🌟
+### About Me 👋
+- 🌱 I’m currently learning Spring🌟
+  
 
 <br>
 <br>
@@ -29,5 +30,24 @@
 
 <br>
 <br>
+
+## 🛠️ Github Stats
+<br>
+  <a href="https://github.com/leegy21"><img alt="leegy21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegy21&langs_count=8&layout=compact&theme=algolia" height="150px"/></a>
+<br/>
+
+## 🏃‍♀️‍➡️ Activities 
+- 멋쟁이 사자처럼 10,11기 Spring
+- UMC 6기 Spring 파트원, 7기 Spring 파트장
+- GDSC 광운 1기 Spring
+<br/>
+
+## 🌟 Projects
+- ☕ [커피 한 잔 할래요~] 현직자와 커피챗 - Server : Spring Boot <sub>(23.07 ~ 23.08)</sub>
+- 🌏 [Realworld Project] API 구현 프로젝트 - Server : Spring Boot <sub>(24.01 ~ 24.02)</sub>
+- 🚨 [WE SAVE] 우리를 구하는 재난 안내 서비스 - Server : Spring Boot <sub>(24.06 ~ 24.08)</sub>
+- 🏋️ [BULK] 증량을 원하는 누구에게나 맞춤 증량 서비스 - Server : Spring Boot <sub>(25.01 ~ )</sub><br/>
+
+<br/>
 
 </div>
