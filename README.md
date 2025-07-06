@@ -31,11 +31,6 @@
 <br>
 <br>
 
-## 🛠️ Github Stats
-<br>
-  <a href="https://github.com/leegy21"><img alt="leegy21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegy21&langs_count=8&layout=compact&theme=algolia" height="150px"/></a>
-<br/>
-
 ## 🏃‍♀️‍➡️ Activities 
 - 멋쟁이 사자처럼 10,11기 Spring
 - UMC 6기 Spring 파트원, 7기 Spring 파트장
