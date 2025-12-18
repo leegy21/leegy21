@@ -17,7 +17,6 @@
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Html](https://img.shields.io/badge/Html-ECD53F.svg?style=flat-square&logo=Html&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white)
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 <br>
