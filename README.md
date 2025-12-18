@@ -33,7 +33,7 @@
 
 ## 🏃‍♀️‍➡️ Activities 
 - 멋쟁이 사자처럼 10,11기 Spring
-- UMC 6기 Spring 파트원, 7기 Spring 파트장
+- UMC 6기 Spring 파트원, 7,8,9기 Spring 파트장
 - GDSC 광운 1기 Spring
 <br/>
 
