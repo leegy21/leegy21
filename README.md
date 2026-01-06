@@ -41,7 +41,8 @@
 - 🌏 [Realworld Project] API 구현 프로젝트 - Server : Spring Boot <sub>(24.01 ~ 24.02)</sub>
 - 🚨 [WE SAVE] 우리를 구하는 재난 안내 서비스 - Server : Spring Boot <sub>(24.06 ~ 24.08)</sub>
 - 🏋️ [BULK] 증량을 원하는 누구에게나 맞춤 증량 서비스 - Server : Spring Boot <sub>(24.12 ~ 25.02)</sub>
-- 💸 [돈터치] 예산 관리, 소비 습관 개선을 지원하는 소비 관리 플랫폼 - Server : Spring Boot <sub>(25.06 ~ 25.08)</sub><br/>
+- 💸 [돈터치] 예산 관리, 소비 습관 개선을 지원하는 소비 관리 플랫폼 - Server : Spring Boot <sub>(25.06 ~ 25.08)</sub>
+- ⏱️ [TAMINGO] 당신을 위한 시간,동선 보조 앱 - Server : Spring Boot <sub>(25.12 ~ 26.02)</sub><br/>
 
 <br/>
 
